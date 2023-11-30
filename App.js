@@ -17,6 +17,13 @@ export default function App() {
       </Drawer.Navigator>
     </NavigationContainer>
   );
+
+{/* <NavigationContainer>
+<Tab.Navigator>
+  <Tab.Screen name="Home" />
+</Tab.Navigator>
+</NavigationContainer>
+  ); */}
 }
 
 // const styles = StyleSheet.create({
